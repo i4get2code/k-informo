@@ -28,3 +28,5 @@ somewhat curated list of useful links for git. inspired by awesome lists, sadly,
 * [carl sednaoui](https://lifehacker.com/why-a-github-gist-is-my-favorite-to-do-list-1493063613) - how to turn github into a to-do list
 
 * [can't submit merge message](https://stackoverflow.com/questions/14095867/git-pull-cant-submit-merge-message) - git pull - can't submit merge message [duplicate]
+
+* [default editor](https://stackoverflow.com/questions/2596805/how-do-i-make-git-use-the-editor-of-my-choice-for-commits) - how do i make git use the editor of my choice for commits?
