@@ -11,7 +11,7 @@ somewhat curated list of useful links for git. inspired by awesome lists, sadly,
 * [pull and fetch](https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch) - what is the difference between 'git pull' and 'git fetch'?
 * [new github repo](https://stackoverflow.com/questions/11693288/how-to-create-a-new-repo-at-github-using-git-bash) - how to create a new repo at github using git bash?
 * [new github repo](https://stackoverflow.com/questions/2423777/is-it-possible-to-create-a-remote-repo-on-github-from-the-cli-without-opening-br) - is it possible to create a remote repo on github from the cli without opening browser?
-
+* [pull cmd](https://www.atlassian.com/git/tutorials/syncing/git-pull) - visuall representation of git pull command
 ## text managing
 
 * [joao cerqueira](https://dev.to/und0ck3d/organizing-your-life-using-github-6an) - organizing your life using Github
