@@ -1,5 +1,7 @@
 # sudo links
 
+somewhat curated list of useful links for sudo. inspired by awesome lists, sadly, not any particular list. examples of these super special awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list. btw, i do not use capital letters on purpose.
+
 ## general
 
 * [nopasswd to multiple cmds](https://askubuntu.com/questions/246455/how-to-give-nopasswd-access-to-multiple-commands-via-sudoers) - how to give nopasswd access to multiple commands via sudoers?
