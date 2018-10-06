@@ -4,12 +4,6 @@ somewhat curated list of useful links for git. inspired by awesome lists, sadly,
 
 ## general
 
-* [lauren orsini part 1](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/) - github for beginners: don’t get scared, get started
-
-* [lauren orsini part 2](https://readwrite.com/2013/10/02/github-for-beginners-part-2/) - github for beginners: commit, push and go
-
-* [meghan nelson](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - an intro to git and github for beginners (tutorial)
-
 * [mike pearce](https://blog.mikepearce.net/2010/05/18/the-difference-between-git-pull-git-fetch-and-git-clone-and-git-rebase/) - the difference between git pull, git fetch and git clone (and git rebase)
 
 * [pull and fetch](https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch) - what is the difference between 'git pull' and 'git fetch'?
@@ -25,6 +19,14 @@ somewhat curated list of useful links for git. inspired by awesome lists, sadly,
 * [local remote repo](https://stackoverflow.com/questions/10603671/how-to-add-a-local-repo-and-treat-it-as-a-remote-repo) - how to add a local repo and treat it as a remote repo
 
 * [no reject remote](https://stackoverflow.com/questions/2816369/git-push-error-remote-rejected-master-master-branch-is-currently-checked/) - git push error [remote rejected] master -> master (branch is currently checked out)
+
+## git introduction
+
+* [lauren orsini part 1](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/) - github for beginners: don’t get scared, get started
+
+* [lauren orsini part 2](https://readwrite.com/2013/10/02/github-for-beginners-part-2/) - github for beginners: commit, push and go
+
+* [meghan nelson](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - an intro to git and github for beginners (tutorial)
 
 ## text managing
 
