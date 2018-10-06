@@ -20,6 +20,8 @@ somewhat curated list of useful links for git. inspired by awesome lists, sadly,
 
 * [no reject remote](https://stackoverflow.com/questions/2816369/git-push-error-remote-rejected-master-master-branch-is-currently-checked/) - git push error [remote rejected] master -> master (branch is currently checked out)
 
+* [change origin](http://blog.aplikacja.info/blog/2010/08/10/switch-origin-of-your-git-repository/) - change "origin" of your git repository
+
 ## git introduction
 
 * [lauren orsini part 1](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/) - github for beginners: don’t get scared, get started
