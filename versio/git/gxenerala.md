@@ -18,7 +18,7 @@ somewhat curated list of useful links for git. inspired by awesome lists, sadly,
 
 * [local remote repo](https://stackoverflow.com/questions/10603671/how-to-add-a-local-repo-and-treat-it-as-a-remote-repo) - how to add a local repo and treat it as a remote repo
 
-* [no reject remote](https://stackoverflow.com/questions/2816369/git-push-error-remote-rejected-master-master-branch-is-currently-checked/) - git push error [remote rejected] master -> master (branch is currently checked out)
+* [remote reject me not](https://stackoverflow.com/questions/2816369/git-push-error-remote-rejected-master-master-branch-is-currently-checked/) - git push error [remote rejected] master -> master (branch is currently checked out)
 
 * [change origin](http://blog.aplikacja.info/blog/2010/08/10/switch-origin-of-your-git-repository/) - change "origin" of your git repository
 
@@ -32,7 +32,7 @@ somewhat curated list of useful links for git. inspired by awesome lists, sadly,
 
 ## text managing
 
-* [joao cerqueira](https://dev.to/und0ck3d/organizing-your-life-using-github-6an) - organizing your life using Github
+* [joao cerqueira](https://dev.to/und0ck3d/organizing-your-life-using-github-6an) - organizing your life using github
 
 * [carl sednaoui](https://lifehacker.com/why-a-github-gist-is-my-favorite-to-do-list-1493063613) - how to turn github into a to-do list
 
