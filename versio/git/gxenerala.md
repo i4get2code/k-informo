@@ -39,3 +39,23 @@ somewhat curated list of useful links for git. inspired by awesome lists, sadly,
 * [can't submit merge message](https://stackoverflow.com/questions/14095867/git-pull-cant-submit-merge-message) - git pull - can't submit merge message [duplicate]
 
 * [default editor](https://stackoverflow.com/questions/2596805/how-do-i-make-git-use-the-editor-of-my-choice-for-commits) - how do i make git use the editor of my choice for commits?
+
+## lfs
+
+* [installation](https://github.com/git-lfs/git-lfs/wiki/Installation) - installing global and local lfs
+
+* [duplicate local repo](https://github.com/git-lfs/git-lfs/issues/1152) - what is the easiest way to duplicate a local repo directory to another directory?
+
+* [getting started](https://github.com/git-lfs/git-lfs) - git startpage documentation
+
+* [bitbucket](https://www.atlassian.com/git/tutorials/git-lfs) - bitbucket documentation
+
+* [gitlab lfs](https://git-lfs.github.com/) - gitlab lfs documentation
+
+* [gitlab about](https://about.gitlab.com/2017/01/30/getting-started-with-git-lfs-tutorial/) - gitlab's getting started with git lfs
+
+* [gitlab docs](https://docs.gitlab.com/ee/workflow/lfs/manage_large_binaries_with_git_lfs.html) - gitlab docs
+
+* [github](https://github.com/git-lfs/git-lfs/wiki/Tutorial) - github tutorial
+
+* [man](https://github.com/git-lfs/git-lfs/tree/master/docs) - official manpages
