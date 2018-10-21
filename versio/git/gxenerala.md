@@ -61,3 +61,7 @@ somewhat curated list of useful links for git. inspired by awesome lists, sadly,
 * [man](https://github.com/git-lfs/git-lfs/tree/master/docs) - official manpages
 
 * [git-tower](https://www.git-tower.com/learn/git/ebook/en/desktop-gui/advanced-topics/git-lfs) - handling large files with lfs
+
+* [jfrog](https://www.jfrog.com/confluence/display/RTF/Git+LFS+Repositories) - git lfs repositories
+
+* [local repo](https://github.com/git-lfs/git-lfs/issues/1207) - can't fetch from local repo
