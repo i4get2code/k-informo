@@ -59,3 +59,5 @@ somewhat curated list of useful links for git. inspired by awesome lists, sadly,
 * [github](https://github.com/git-lfs/git-lfs/wiki/Tutorial) - github tutorial
 
 * [man](https://github.com/git-lfs/git-lfs/tree/master/docs) - official manpages
+
+* [git-tower](https://www.git-tower.com/learn/git/ebook/en/desktop-gui/advanced-topics/git-lfs) - handling large files with lfs
