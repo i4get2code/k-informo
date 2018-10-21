@@ -50,7 +50,7 @@ somewhat curated list of useful links for git. inspired by awesome lists, sadly,
 
 * [bitbucket](https://www.atlassian.com/git/tutorials/git-lfs) - bitbucket documentation
 
-* [gitlab lfs](https://git-lfs.github.com/) - gitlab lfs documentation
+* [github lfs](https://git-lfs.github.com/) - git lfs startpage
 
 * [gitlab about](https://about.gitlab.com/2017/01/30/getting-started-with-git-lfs-tutorial/) - gitlab's getting started with git lfs
 
