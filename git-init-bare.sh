@@ -1,1 +1,1 @@
-git init --bare ../operaco-md.git
+git init --bare ../gits/operaco-md.git
