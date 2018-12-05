@@ -5,9 +5,11 @@ cd $S # necessary
 
 # N means name / nomo
 # D means directory
+# P means path
 N="$(basename $(pwd))"
 D="$N.git"
+P="../gits"
 
-if [ -d ../gits/$D ]; then
+if [ -d $P/$D ]; then
     git push on master
 fi

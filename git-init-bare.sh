@@ -5,7 +5,13 @@ cd $S # necessary
 
 # N means name / nomo
 # D means directory
+# P means path
 N="$(basename $(pwd))"
 D="$N.git"
+P="../gits"
 
-git init --bare ../gits/$D
+if [ ! -d $P/$D ]; then
+    git init --bare $P/$D
+else
+    echo "$D already created"
+fi
