@@ -1,3 +1,12 @@
-git remote add on ../gits/operaco-md.git
-git remote add off ../gits/operaco-md.git
+# exec your command from whatever place
+# S means source / salto
+S="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+cd $S # necessary
 
+# N means name / nomo
+# D means directory
+N="$(basename $(pwd))"
+D="$N.git"
+
+git remote add on ../gits/$D
+git remote add off ../gits/$D
