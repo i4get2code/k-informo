@@ -10,3 +10,5 @@ N="online"
 
 git remote rm $F
 git remote rm $N
+
+echo "remote repos deleted"
