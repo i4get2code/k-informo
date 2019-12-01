@@ -30,6 +30,29 @@ somewhat curated list of useful links for git. inspired by awesome lists, sadly,
 
 * [meghan nelson](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - an intro to git and github for beginners (tutorial)
 
+## password store
+
+* [git scm ru](https://git-scm.com/book/ru/v2/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-Git-%D0%A5%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B5-%D1%83%D1%87%D0%B5%D1%82%D0%BD%D1%8B%D1%85-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85) - хранилище учетных данных
+* [stackoverflow](https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-in-git) - how to save username and password in git
+* [git scm](https://www.git-scm.com/docs/gittutorial/1.8.2) - git config global user.email
+
+## add
+
+* [git scm](https://git-scm.com/docs/git-add) - git-add - add file contents to the index
+
+## push
+
+* [freecodecamp](https://guide.freecodecamp.org/git/git-push/) - freecodecamps' explanation
+* [git-tower](https://www.git-tower.com/learn/git/commands/git-push) - tower's explanation
+
+## clone
+
+* [atlassian](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone) - git clone
+
+## init
+
+* [atlassian](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-init) - git init
+
 ## text managing
 
 * [joao cerqueira](https://dev.to/und0ck3d/organizing-your-life-using-github-6an) - organizing your life using github
