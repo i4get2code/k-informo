@@ -80,7 +80,7 @@ somewhat curated list of useful links for blender. inspired by awesome lists, sa
 
 * [how to model a mech in blender 2.76](https://www.youtube.com/watch?v=FKkUOMB6Zsc)
 
-* [blender 3d: mech kitbash timelapse](https://www.youtube.com/watch?v=eDdjlD92luM\)
+* [blender 3d mech kitbash timelapse](https://www.youtube.com/watch?v=eDdjlD92luM\)
 
 * [simple mech modeling tutorial in blender 2.69](https://www.youtube.com/watch?v=_3rX5zC9mu4)
 
