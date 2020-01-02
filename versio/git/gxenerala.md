@@ -40,7 +40,11 @@ somewhat curated list of useful links for git. inspired by awesome lists, sadly,
 
 ## add
 
-* [git scm](https://git-scm.com/docs/git-add) - git-add - add file contents to the index
+* [git scm](https://git-scm.com/docs/git-add) - add file contents to the index
+
+## commit
+
+* [git tower](https://www.git-tower.com/learn/git/commands/git-commit) - tower's explanation
 
 ## push
 
