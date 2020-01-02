@@ -3,5 +3,5 @@
 S="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd $S # necessary
 
-./0-git-remote-rm-origin.sh
-./0-git-remote-add.sh
+./00-git-remote-rm-origin.sh
+./00-git-remote-add.sh
